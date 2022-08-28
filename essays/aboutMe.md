@@ -6,12 +6,10 @@ title: "Getting to Know Alex"
 date: 2022-08-27
 published: true
 labels:
-  - Student of MIS and Accounting at the University of Hawaii Manoa
+  - Student of MIS and Accounting at the University of Hawaii Manoa 
 ---
 
 <img width="200px" class="rounded float-start pe-4" src="../img/difficulty/degree_difficulty.jpg">
-
-**Student of MIS and Accounting**
 
 *Aloha everyone,*
 ---
