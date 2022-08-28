@@ -10,8 +10,8 @@
     "location": { "address": "350 Aoloa St. C212", "postalCode": "96734", "city": "Kailua", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "aamarcon", "url": "http://github.com/changeme" },
-      { "network": "linkedin", "username": "", "url": "" },
-      { "network": "twitter", "username": "", "url": "" },
+      { "network": "linkedin", "username": "A", "url": "linkedin.com" },
+      { "network": "twitter", "username": "A", "url": "twitter.com" },
       { "network": "instagram", "username": "", "url": "http://instagram.com/alexmarcondes99" }
     ]
   },
