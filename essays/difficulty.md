@@ -1,54 +1,22 @@
 ---
 layout: essay
 type: essay
-title: "The difficult things will always be difficult"
+title: "E1: UI Basics Technical Essay"
 # All dates must be YYYY-MM-DD format!
 date: 2016-02-06
-published: false
+published: true
 labels:
-  - Engineering
+  - Browser History 1
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/difficulty/degree_difficulty.jpg">
+## My Strategy
+For Browser History One, my strategy was to read the instructions well. I have done a little bit of HTML and CSS a long time ago and I thought that the assignment would be a piece of cake. After reading the instructions, I was confident that I was going to be able to finish in a decent time on the very first try. Well, I was wrong. First, getting the set up to do the WODs was complicating. I knew that when you press shift, command, and five together on a Mac, it turns on a recorder to screencast. I run a test, but I could not get the microphone to work. So, I took the recommendation of the assignment and downloaded a new software, the OBS studio app. After playing with it for a while, I was able to understand how it worked well enough to start my first casting.
 
-*Difficulty: a thing that is hard to accomplish, deal with, or understand.*
+## What Happaned When the Strategy Did Not Work
+It did not take long for me to notice that it was going to be impossible to finish the screencast in fifteen minutes or less. I did not prepare the links that I had to open ahead of time and sometimes when I have many windows open in my browser, things are slow to load. I also noticed that I was worried about the clock and between looking at the clock and trying to look back at the task that I was supposed to do, I was losing time and focus. When it got to twenty minutes I stopped.
 
-One of my friends asked the question earlier last week -- why is it so hard to be an officer for the student branch? Why is so hard compared to working at my on-campus job? This question came after he struggled a little with bookkeeping for the student organization.
-
-Now I gave him the standard answer - being an officer of an organization requires that you manage your time between school and work. There isn't anyone telling you what to do. It's the answer any good mentor would give, and is mostly true.
-
-But the more I though about it, the more I wondered to myself...damn that's a really great question; it's one that deserves some more thought. Most people I think stop at the answer I gave previously - he obviously isn't managing his time properly.
-
-Here's what I think: the difficult things will always be difficult.
-
-## In the context of programming
-
-In the context of programming, this has always been true. The difficult problems have always been different, although changes in technology can change the landscape quite a bit. "Business" type applications are the things that come to mind for me. Those types of applications are usually coupled in some way with people ... and people are awfully hard to deal with!
-
-Consider that one of the most popular content management systems is also considered the most horrible - Wordpress. But really, is there anything that fills that need? If it was so easy in the first place, where is the solution? Where's the magic CMS that is designed well enough that everyone hops on the boat to use it?
-
-Some things are just difficult - building applications that humans use is hard, and will probably be hard for at least the near future.
-
-## In the context of engineering
-
-Ever hear people ragging on engineering companies for delivering late and way over budget? Well, some engineering jobs are really difficult, especially if the requirements and funding are undulating underneath you. Because of the nature of the problem, sometimes engineering firms require large amounts of engineers and workers, inviting further problems and delays.
-
-The Honolulu Rail project at home has become this sort of poster child of failure, budget overrun and overall incompetence in Hawaii. Well, working though regulatory boards and fiscal procedures in Hawaii seems like it's a mind bogglingly difficult job to do. Granted, there might be some fishy stuff going on, but I refuse to believe that everyone is involved for nefarious reasons.
-
-The problem of creating an unprecedented public transportation backbone on an island is difficult! I'm not sure we would have done it right, even if the best people were involved.
-
-## In the context of relationships
-
-So in the end, we realize that all engineering and programming is there for a reason - to serve human needs. Maybe that's why those things are difficult, because they both involve humans and are for humans.
-
-Relationships, regardless if they're romantic or not take work. Humans are fickle creatures and relationships can come and go with the wind. To properly maintain something over time requires work. Family takes work. Marriage takes work. We live to figure out what works and what doesn't and hope that as we move forward we're improving.
-
-Relationships have always been difficult, and by nature will continue to be so.
-
-## Okay!
-
-So back to the original premise; why is being one of the club officers so difficult?
-
-And the final answer - it's supposed to be difficult, and it's supposed to challenge you, just like everything else that humans do that is difficult: programming, engineering, engaging in relationships, pondering the universe, etc.
-
-Ultimately the question you should really ask yourself if something if particularly difficult is then "is it worth it"? That is something that is context specific and only you can answer yourself.
+## How I Felt
+I felt frustrated, I felt that they were simple tasks and that I should’ve being able to do it at least at an average level. Though I did not feel well about myself, I knew I could at least do the assignment. 
+## Love When a Plan Works 
+This time, I planned better by doing the following. I opened the links that I was going to need in different windows, I told myself that I was not going to look at the stopwatch until I was done, I was going to read the entire question before starting the task, and I was just going to try to do my best in whatever time it took to get it done. 
+Well, though that was a good plan, I finished the second try in about thirty-two minutes. This time I was also frustrated, but it was not because of the time or the code itself, it was because I knew I had to do it again. I noticed that reading the question out loud was taking too much of my time, and that by now I knew what was asked of me. So, I set up to do the assignment for the third time. This time I finished on time. It was not the best time because it was in the range of the Sd, but I finished. So, I can say: “I love when a plan works”.
