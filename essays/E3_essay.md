@@ -6,7 +6,7 @@ title: "E3: Technical Essay"
 date: 2022-09-28
 published: true
 labels:
--- "E3: Technical Essay"
+ - E3: Technical Essay
 ---
 
 **For this WOD** we were supposed to create a sales receipt or invoice with five products, in a table, with a subtotal, and taxes. Also, as part of the assignment, we were supposed to comment our code. The assignment covers the expressions and operators’ part of the modules. We were also supposed to change the value of the variable to test and see if our code worked dynamically.  The expressions and operators were not very difficult understand the difficulty was on the string template. 
