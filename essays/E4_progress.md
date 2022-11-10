@@ -6,7 +6,7 @@ title: "E4: Progress in Programming Report"
 date: 2022-11-09
 published: true
 labels:
-  - E4: Progress in Programming
+  - E4 Progress in Programming
 ---
 ## E4: Progress in Programming Report
 
