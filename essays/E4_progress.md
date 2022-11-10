@@ -8,7 +8,6 @@ published: true
 labels:
   - E4: Progress in Programming
 ---
-
 ## E4: Progress in Programming Report
 
 **My programming skills** have improved at least in three major ways. The first, and maybe one of the most important, if not the most important, by thinking more critically even before the first line of code, making it easier to build good code. In other words, improving the planning of what the program will do has helped me be a better programmer. Secondly, and keeping up with the first point here, using code comments helped me improve my programming immensely. I am able to follow the flow of my code by just looking at the comment above. Granted, this does not happen all the time, but it was an improvement. And the third one, is debugging. I am much better at spotting things that are not working properly. I realized that taking a break and walking away from the code for a few minutes and sometimes even longer, can be beneficial and maybe even help find the bug in about the same time that would take to be persisting on the problem, and it is less frustrating. 
