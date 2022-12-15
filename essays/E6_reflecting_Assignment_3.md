@@ -61,4 +61,4 @@ Bobby would stay after the meeting and push through to find a solution for a spe
 Therefore I would give Bobby 40% of the project. As for myself I spend many hours outside the 
 Meeting problem solving and creating parts of the project I would say that 35% of the assignment was cover by me.
 The other 25% was cover by Eva. She was in the meeting and did the parts that was asked of her but it is my feeling that
-she did not go beyond as much as Bobby and I. I think that 33.3% is a unrealistic to say that the project was like that, but I am proud that everyone put their best effort forward and I am proud of my group and the project. 
+she did not go beyond as much as Bobby and I. I think that 33.3% is unrealistic to say that the project was like that, but I am proud that everyone put their best effort forward and I am proud of my group and the project. 
