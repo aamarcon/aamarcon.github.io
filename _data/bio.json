@@ -1,0 +1,57 @@
+{
+  "basics": {
+    "name": "Alexandre A. Marcondes",
+    "label": "Student",
+    "picture": "https://avatars.githubusercontent.com/u/111392634?s=400&u=71578863fc5a47bb3bd03f52fcc4115a99bd4aaa&v=4",
+    "email": "aamarcon@hawaii.edu",
+    "phone": "415-686-5700",
+    "website": "https://aamarcon.github.io/aamarcon-github.io/",
+    "summary": "I am studying Management Information Systems and Accounting at the U.H. Manoa.",
+    "location": { "address": "350 Aoloa St. C212", "postalCode": "96734", "city": "Kailua", "countryCode": "USA", "region": "Hawaii" },
+    "profiles": [
+      { "network": "github", "username": "aamarcon", "url": "https://github.com/aamarcon" },
+      { "network": "instagram", "username": "", "url": "http://instagram.com/alexmarcondes99" }
+    ]
+  },
+  "interests": [
+    { "name": "Interactive media" },
+    { "name": "Applications Development" },
+    { "name": "Budget Reconciliation" },
+    { "name": "Data Analysis" }
+  ],
+  "skills": [
+    {
+      "name": "Languages and Frameworks",
+      "keywords": [ "Python", "HTML", "CSS", "Javascript" ]
+    },
+    {
+      "name": "Toolsets/OS",
+      "keywords": [ "MacOS", "Git/GitHub", "VS Code" ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Hawaii, Honolulu, HI",
+      "area": "Management Information Systems and Accounting (expected Spring, 2025)",
+      "studyType": "B.S.",
+      "startDate": "2022",
+      "endDate": "Present",
+      "courses": [
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "Dean's List",
+      "date": "2022",
+      "awarder": "Kapiolani Community college",
+      "summary": "Graduated with honors."
+    }
+  ],
+   
+  "references": [
+    {
+      "name": "Available upon request"
+    }
+  ]
+}
