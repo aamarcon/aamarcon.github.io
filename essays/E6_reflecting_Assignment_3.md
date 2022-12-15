@@ -53,7 +53,7 @@ to know what exactly I want to do and then start writing code.
 **Estimate the % of time you spent (a) thinking about how to do something, (b) writing code (but do not include testing, (c) testing and debugging**
 20% thinking about how to do something and I think this is something I have to improve on. I need to think about 40% to debug less. I think writing code was just 30% and debugging the other 50%. When things break debugging is just a process of one thing at a time and that takes time. 
 
-**Assign an estimated percentage on the amount each team member contributed to the assignment (including yourself) and explain briefly your rationale for the percentage breakdown. Be sure to include an overview of what specifically you and your partners contributed (e.g. “I worked on the security and my partner 1 worked on personalization”)
+**Assign an estimated percentage on the amount each team member contributed to the assignment (including yourself) and explain briefly your rationale for the percentage breakdown. Be sure to include an overview of what specifically you and your partners contributed (e.g. “I worked on the security and my partner 1 worked on personalization”)**
 
 Over all, we tried to problem solve together and worked together as many times it was possible.
 We tried to split the project equaly between all of us. That said, I think that 
